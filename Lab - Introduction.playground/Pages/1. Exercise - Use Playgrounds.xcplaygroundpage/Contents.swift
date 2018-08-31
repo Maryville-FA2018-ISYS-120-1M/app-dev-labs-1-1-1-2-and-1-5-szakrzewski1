@@ -10,14 +10,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
-
+print("Come Back to Earth by Mac Miller")
+print("SICKO MODE by travis scott")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("sun is down, freezin cold")
+print("that's how we already know winter's here")
+print("i tried to show them")
 /*:
  
  _Copyright © 2017 Apple Inc._
